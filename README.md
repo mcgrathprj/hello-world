@@ -1,2 +1,4 @@
 # hello-world
-peter's first project
+Hello!
+
+This is Peter's first github project. 
